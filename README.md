@@ -1,17 +1,8 @@
 # Hi, There !
 
-<div style="position: relative; ">
-    <img src="res/vi-frame.png">
-    <div>
-    </div>
-    <div style="position: absolute; top: 50%; right:15%; transform: translate(0, -50%)">
-        <div style="position: relative">
-            <img src="res/circle-cutout-isolated.png" width="150" >
-            <img src="res\vi-isolated.png" width="150" style="position: absolute; left: 0; top: -10px;">
-        </div>
-        <h2 style="color: white; font-weight: 700; text-shadow: 2px 2px rgba(59, 41, 74, 50%);" align="center">Vincent Inspired</h2>
-    </div>
-</div>
+<img src="res/banner.svg" width="100%" alt="">
+
+---
 
 ## <img src="res/question-icon.svg" width="50"> About Me
 
@@ -22,7 +13,7 @@ import _ "doingmybest"
 
 func main() {
     v := Dev{
-        Name: “Vincent Martinez”,
+        Name: "Vincent Martinez",
         Lang: []Code{ Go, Java, Python, PHP, SQL, Javascript, HTML, CSS },
         Tools: []Tech{ Oracle DBMS, Postgres, MySQL, Django, SASS, gcloud },
         IsAlive: true,
