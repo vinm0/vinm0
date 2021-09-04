@@ -1,6 +1,6 @@
 # Hi, There !
 
-<div style="position: relative; ">
+<!-- <div style="position: relative; ">
     <img src="res/vi-frame.png">
     <div style="position: absolute; top: 0; right:0; transform: translate(-50%, 50%);">
         <div style="position: relative">
@@ -9,7 +9,7 @@
         </div>
         <h2 style="color: white; font-weight: 700; text-shadow: 2px 2px rgba(59, 41, 74, 50%);" align="center">Vincent Inspired</h2>
     </div>
-</div>
+</div> -->
 
 ## <img src="res/question-icon.svg" width="50"> About Me
 
