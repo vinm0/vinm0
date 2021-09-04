@@ -1,6 +1,6 @@
 # Hi, There !
 
-<img src="res/banner.svg" width="100%" alt="">
+![Banner](res/banner.svg)
 
 ---
 

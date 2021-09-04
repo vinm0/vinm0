@@ -2,13 +2,13 @@
 <foreignObject width="100%" height="100%">
     
     <div style="position: relative; " align="center" width="100%" xmlns="http://www.w3.org/1999/xhtml">
-        <img src="./wave.gif" alt="Background" width="100%"></img>
+        <embed src="./wave.gif" alt="Background" width="100%"></embed>
         
         <div style="position: absolute; top: 50%; right:15%; transform: translate(0, -50%)">
             
             <div style="position: relative">
-                <img src="./circle-cutout-isolated.png" width="150" alt="circle"></img>
-                <img src="./vi-isolated.png" width="150" style="position: absolute; left: 0; top: -10px;" alt="vi"></img>
+                <embed src="circle-cutout-isolated.png" width="150" alt="circle"></embed>
+                <embed src="vi-isolated.png" width="150" style="position: absolute; left: 0; top: -10px;" alt="vi"></embed>
             </div>
 
             <h2 style="color: white; font-weight: 700; text-shadow: 2px 2px rgba(59, 41, 74, 50%);" align="center">Vincent Inspired</h2>
