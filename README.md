@@ -1,6 +1,8 @@
-# Hi, There !
+# Welcome, techie ! <img src="res/blob-emoji.gif" width="45">
 
-<img src="res/banner.gif" align="center">
+<div align="center">
+<img src="res/banner.gif">    
+</div>
 
 ---
 
