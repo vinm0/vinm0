@@ -38,4 +38,23 @@ I'm passionate about creating software that inspires people to realize their vis
 
 ## <img src="res/ide-icon.svg" width="70"> Recent Projects
 
+<!-- <div align="center"> -->
+<div>
+    <h3>Lobbo</h3>
+    <p><a href="https://github.com/vinm0/lobbo">Github: Lobbo</a></p>
+    <p><a href="https://lobbo.io">lobbo.io</a></p>
+</div>
+
+<div>
+    <h3>IttyUrl</h3>
+    <p><a href="https://github.com/vinm0/ittyurl">Github: IttyUrl</a></p>
+    <p><a href="https://ittyurl.io">ittyurl.me</a></p>
+</div>
+
+<div>
+    <h3>Fancy Paths</h3>
+    <p><a href="https://github.com/vinm0/fancypaths">Github: fancypaths</a></p>
+</div>
+<!-- </div> -->
+
 ## <img src="res/pencil-icon.svg" width="70"> Latest Blog Posts
