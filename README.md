@@ -1,6 +1,6 @@
 # Hi, There !
 
-![Banner](res/banner.gif)
+<img src="res/banner.gif" align="center">
 
 ---
 
@@ -30,10 +30,10 @@ func main() {
 }
 ```
 
-## <img src="res/brain-icon.svg" width="50"> Philosophy
+## <img src="res/brain-icon.svg" width="70"> Philosophy
 
-I'm passionate about creating software that inspires people to realize their vision, and promotes the success of their goals. Everyone has a vision of the world that is better than how the world is now. I'm looking for a career creating programs that aid ambitious people to act toward that vision.
+I'm passionate about creating software that inspires people to realize their vision and promotes the success of their goals. Everyone has a vision of the world that is better than it is now. I dedicate my career to building programs that aid ambitious people to act toward that vision.
 
-## <img src="res/ide-icon.svg" width="50"> Recent Projects
+## <img src="res/ide-icon.svg" width="70"> Recent Projects
 
-## <img src="res/pencil-icon.svg" width="50"> Latest Blog Posts
+## <img src="res/pencil-icon.svg" width="70"> Latest Blog Posts
