@@ -1,6 +1,6 @@
 # Hi, There !
 
-![Banner](res/banner.svg)
+![Banner](res/banner.gif)
 
 ---
 
